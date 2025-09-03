@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard – Saudi Arabia ☕🇸🇦
+# Coffee Sales Dashboard – Saudi Arabia ☕
 
 ▶️ [**View Live Interactive Dashboard**](https://saharalshaibani.github.io/coffee-sales-dashboard/)
 
