@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Executive Summary
+## Executive Summary
 
 This project analyzes **coffee bean sales in Saudi Arabia (2023–2024)** using **Power BI**.
 
@@ -12,14 +12,14 @@ It highlights strong YoY growth, high discount reliance, product performance, an
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source:** [Coffee Bean Sales Dataset – Kaggle](https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset)
 - **Scope:** 2 years of sales transactions in Saudi Arabia (~100 customers, 5 bean types, 10 cities).
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 
 - **Total Net Sales:** SAR 629,648
 - **YoY Growth:** +101%
@@ -29,7 +29,7 @@ It highlights strong YoY growth, high discount reliance, product performance, an
 
 ---
 
-## 🔍 Insights
+## Insights
 
 1. Strong YoY growth → sales more than doubled.
 2. 53% of orders rely on discounts → risk to profitability.
@@ -38,7 +38,7 @@ It highlights strong YoY growth, high discount reliance, product performance, an
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Optimize discounts to protect profit margins.
 - Focus on best-selling beans.
@@ -47,14 +47,14 @@ It highlights strong YoY growth, high discount reliance, product performance, an
 
 ---
 
-## 🛠️ Tools
+##  Tools
 
 - Power BI (data modeling, DAX, dashboard design).
 - DAX KPIs: Net Sales, YoY Growth, AOV, Discount %.
 
 ---
 
-## 📌 About
+##  About
 
 Created by **Sahar Alshaibani**
 
